@@ -1,2 +1,4 @@
 buenos dias
 como va?
+
+Cambios en el archivo B1
