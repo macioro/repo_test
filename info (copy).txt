@@ -1,16 +1,8 @@
 buenos dias
 como va?
 
-
 Cambios en el archivo B1
 cambio b2
-
-
-
-
-
-
-
-modificacion para evitar conflicto
 cambio en el branch B3
 modificacion archivo
+voy a hacer un revert
